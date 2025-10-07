@@ -183,4 +183,4 @@ Buka http://localhost:3000
 
 Push ke GitHub, lalu deploy di Vercel dengan environment variables yang sama.
 
-Cek proyek lengkapnya di [GitHub](https://github.com/mamatqurtifa/user-management-app) atau kunjungi [qurtifa.me](https://user-management-app.qurtifa.my.id) untuk demo.
+Cek proyek lengkapnya di [GitHub](https://github.com/mamatqurtifa/user-management-app) atau kunjungi [user-management-app.qurtifa.my.id](https://user-management-app.qurtifa.my.id) untuk demo.
