@@ -1,4 +1,4 @@
-# User Management App - Setup Guide
+# User Management App
 
 Aplikasi manajemen user dengan Next.js 15 + Supabase + Tailwind CSS 4.
 
